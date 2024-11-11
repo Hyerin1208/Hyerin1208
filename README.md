@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=fab19b&height=200&section=header&text=Hyerin's%20GitHub&fontSize=70&animation=twinkling)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/hyerinkim1208"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <!--
 **Hyerin1208/Hyerin1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
